@@ -191,3 +191,4 @@ if __name__ == '__main__':
     # 运行服务器
     app.run()
 num1 =1
+num2 =2
